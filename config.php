@@ -1,5 +1,5 @@
 <?php
-    $conn = mysqli_connect("localhost", "root", "", "crud") or die("Connection Failed");
+    $conn = mysqli_connect("https://mukeshkrmukhiya.github.io/StudentForm/", "root", "", "crud") or die("Connection Failed");
 
 
 
